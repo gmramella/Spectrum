@@ -19,7 +19,13 @@
 	* por algum motivo, janela de debug não aparece depois de passar pro Github
 
 * Referências:
-
+	
+	* http://soundfile.sapp.org/doc/WaveFormat/
+	
+	* https://stackoverflow.com/questions/36949957/loading-a-wav-file-for-openal
+	
+	* https://github.com/dilawar/wav/blob/master/WAVReader.h
+	
 	* https://www.youtube.com/watch?v=CMyG4hsKCJo
 	
 	* https://www.youtube.com/playlist?list=PLT5_DQAJJLh-ogHjHcLtFYMQy7SkZ7-3i
