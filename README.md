@@ -2,17 +2,21 @@
 
 * Para funcionar:
 
+	* colocar na pasta projetos da libUnicornio
+	
 	* compilar para criar uma pasta bin e colar arquivos da pasta bin de algum projeto da libUnicornio nesta pasta criada
 	
 	* adicionar libfftw3-3.dll nesta pasta
 	
-	* criar pasta include contendo fftw3.h e pasta lib contendo libfftw3-3.lib
-	
 	* criar pastas Musics e Files dentro da pasta bin
 	
-	* trocar ./Musics por ./bin/Musics nas linhas 50-63 do main.cpp
+	* trocar ./ por ./bin/em:
 	
-	* trocar ./Files por ./bin/Files nas linhas 96, 113, 122, 141 e 150 do AudioManager.h e 62 do Utils.cpp
+		* main.cpp: linhas 29, 30 e 46
+		
+		* wav.cpp: linhas 61 e 80
+	
+	* por algum motivo, janela de debug não aparece depois de passar pro Github
 
 * Referências:
 
