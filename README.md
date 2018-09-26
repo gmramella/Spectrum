@@ -10,7 +10,7 @@
 	
 	* criar pastas Musics e Files dentro da pasta bin
 	
-	* trocar ./ por ./bin/em:
+	* trocar ./ por ./bin/ em:
 	
 		* main.cpp: linhas 29, 30 e 46
 		
