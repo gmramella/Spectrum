@@ -16,6 +16,8 @@
 		
 		* wav.cpp: linhas 61 e 80
 	
+	* mudar a música na linha const char* path = ... no main.cpp
+	
 	* por algum motivo, janela de debug não aparece depois de passar pro Github
 
 * Referências:
